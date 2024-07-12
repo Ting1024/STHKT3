@@ -2,7 +2,7 @@
 
 ## Step1: Preprocess the dataset
 ```python
-python preprocess.py
+python preprocessing.py
 ```
 
 ## Step2: Modify the configuration file
